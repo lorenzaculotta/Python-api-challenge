@@ -1,0 +1,12 @@
+Observable trends based on the data
+
+- There is a strong negative correlation between city latitude and max temperature for the Northern hemisphere, meaning that if latitude increases (i.e. going far from equator), the temperature decreases
+
+- There is a strong positive correlation between city latitude and max temperature for the Southern hemisphere, meaning that if latitude increases (i.e. less negative, going closer to equator), the temperature increases.
+
+- There is a slight positive correlation between city latitude and humidity % for the Northern hemisphere
+
+- There is a slight negative correlation between city latitude and wind speed for the Southern hemisphere
+
+- There is no correlation between city latitude and cloudiness percentage, both for Northern and Southern hemispheres
+
